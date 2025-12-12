@@ -1,4 +1,5 @@
 .venv/
-network.har
+*.har
+*.csv
 audio_files/
 .~lock*

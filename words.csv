@@ -1,6 +1,227 @@
 #separator:semicolon;;;;;;;;
 #deck column:4;;;;;;;;
-#front;back;tags;deck;Section ;Unit ;Japanese;English;filename
+#front;back;tags;deck;Section ;Unit ;TargetLanguage;KnownLanguage;filename
+ながい<br>[sound:d3759f303e01783f9689f6fd5f7f2312.mp3];long;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;ながい;long;d3759f303e01783f9689f6fd5f7f2312.mp3
+しゅうてん<br>[sound:a75d3ca2decbb323f71e0602d5b0e8e6.mp3];final stop;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;しゅうてん;final stop;a75d3ca2decbb323f71e0602d5b0e8e6.mp3
+時間<br>[sound:7874b8c40304eb4f44203211560861fd.mp3];time, hour, hours;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;時間;time, hour, hours;7874b8c40304eb4f44203211560861fd.mp3
+分<br>[sound:b1f2bfacb8ad8669b637780b09fbbfcc.mp3];minute, minutes;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;分;minute, minutes;b1f2bfacb8ad8669b637780b09fbbfcc.mp3
+ぐらい<br>[sound:ccf310d79a1525cc980c81669dd72690.mp3];about;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;ぐらい;about;ccf310d79a1525cc980c81669dd72690.mp3
+かかります<br>[sound:5c1b53809abc677ff76a2ec9054ec3f2.mp3];take, (it) takes, (it) will take;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;かかります;take, (it) takes, (it) will take;5c1b53809abc677ff76a2ec9054ec3f2.mp3
+はやい<br>[sound:4ff764fd8e36750cb3d28c350e998fb5.mp3];fast;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;はやい;fast;4ff764fd8e36750cb3d28c350e998fb5.mp3
+十分<br>[sound:2b57ebd0e4315953f2c31735faf4555c.mp3];sufficient, enough, adequate;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;十分;sufficient, enough, adequate;2b57ebd0e4315953f2c31735faf4555c.mp3
+どの<br>[sound:c13fdcbcff43c509d59ea67db23d97aa.mp3];any, each, which;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;どの;any, each, which;c13fdcbcff43c509d59ea67db23d97aa.mp3
+もうすぐ<br>[sound:baceced4da569c6524c54674f8427128.mp3];soon, almost, shortly;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;もうすぐ;soon, almost, shortly;baceced4da569c6524c54674f8427128.mp3
+あさくさ<br>[sound:1f2e18c4067c2a5ae5027996b9f4dcf0.mp3];Asakusa;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;あさくさ;Asakusa;1f2e18c4067c2a5ae5027996b9f4dcf0.mp3
+うえのこうえん<br>[sound:3143bc27af8300697079d2f0d5dd7eaf.mp3];Ueno Park;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;うえのこうえん;Ueno Park;3143bc27af8300697079d2f0d5dd7eaf.mp3
+来ます<br>[sound:33c505f7990be6b652ed576c2473864a.mp3];will be here, will come, is coming;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;来ます;will be here, will come, is coming;33c505f7990be6b652ed576c2473864a.mp3
+つぎの<br>[sound:f3607e42c5bc272b0bf037d24170cdff.mp3];next;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;つぎの;next;f3607e42c5bc272b0bf037d24170cdff.mp3
+つぎ<br>[sound:489ac3d472679c250cfa72a91b7373f5.mp3];next;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;つぎ;next;489ac3d472679c250cfa72a91b7373f5.mp3
+よこはま<br>[sound:425359207aef87cd6d09b4e5e1e0007e.mp3];Yokohama;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;よこはま;Yokohama;425359207aef87cd6d09b4e5e1e0007e.mp3
+バス<br>[sound:f862cbf8532371726af30e838cc0e98c.mp3];bus;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;バス;bus;f862cbf8532371726af30e838cc0e98c.mp3
+あきはばら<br>[sound:c3ea6c6828f2c3e42dcd2ce695ee64d9.mp3];Akihabara;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;あきはばら;Akihabara;c3ea6c6828f2c3e42dcd2ce695ee64d9.mp3
+しぶや<br>[sound:254ab2967f5f054f008ce842157fc522.mp3];Shibuya;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;しぶや;Shibuya;254ab2967f5f054f008ce842157fc522.mp3
+行きます<br>[sound:a5c7f64528d1f95d82fcede3584499ac.mp3];am going, are going, go;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;行きます;am going, are going, go;a5c7f64528d1f95d82fcede3584499ac.mp3
+でんしゃ<br>[sound:6999fb531681ec65a39e883cc7a13221.mp3];train;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;でんしゃ;train;6999fb531681ec65a39e883cc7a13221.mp3
+こんしゅう<br>[sound:3b39fee02d24e17d706269f30dda64ee.mp3];this week;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;こんしゅう;this week;3b39fee02d24e17d706269f30dda64ee.mp3
+いつ<br>[sound:39aa72c0d7e8326596181ab7549b8943.mp3];when, what time;;Duolingo JAP|ENG::Section 2::Unit 13;Section 2;Unit 13;いつ;when, what time;39aa72c0d7e8326596181ab7549b8943.mp3
+つくえ<br>[sound:50fc1064856cc5738d24649bd8c805e4.mp3];desk;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;つくえ;desk;50fc1064856cc5738d24649bd8c805e4.mp3
+せんたくき<br>[sound:553ef2466aaa994cfd95029bdfb6dd57.mp3];washing machine;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;せんたくき;washing machine;553ef2466aaa994cfd95029bdfb6dd57.mp3
+れいぞうこ<br>[sound:9607e9fd9d7d0b5b85a90833053943c5.mp3];fridge;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;れいぞうこ;fridge;9607e9fd9d7d0b5b85a90833053943c5.mp3
+いす<br>[sound:5692e6ba31025f0f2fd23f89f35d2f6a.mp3];chair, chairs;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;いす;chair, chairs;5692e6ba31025f0f2fd23f89f35d2f6a.mp3
+テーブル<br>[sound:d6d3c610e3c6751593144b556dc8634e.mp3];table, tables;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;テーブル;table, tables;d6d3c610e3c6751593144b556dc8634e.mp3
+でんしレンジ<br>[sound:15f4fa1087072d8f6af7c41937d6a64e.mp3];microwave;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;でんしレンジ;microwave;15f4fa1087072d8f6af7c41937d6a64e.mp3
+ふとん<br>[sound:98b0fef253d82f2a5663c59345283c8a.mp3];futon, futons;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;ふとん;futon, futons;98b0fef253d82f2a5663c59345283c8a.mp3
+たぶん<br>[sound:d19ee0c95a28949de1d11e3972dccd61.mp3];probably;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;たぶん;probably;d19ee0c95a28949de1d11e3972dccd61.mp3
+ほんだな<br>[sound:bde1c1b6901836d2bb9f38566e82b3b4.mp3];bookshelf;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;ほんだな;bookshelf;bde1c1b6901836d2bb9f38566e82b3b4.mp3
+シャワー<br>[sound:3ebcad1c706b65e20e0df7e8237e8dc5.mp3];shower, showers;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;シャワー;shower, showers;3ebcad1c706b65e20e0df7e8237e8dc5.mp3
+そうじき<br>[sound:b8e2d8297044e5d903c0f60014b858cc.mp3];vacuum cleaner;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;そうじき;vacuum cleaner;b8e2d8297044e5d903c0f60014b858cc.mp3
+エアコン<br>[sound:acd47dc37688dd5a544c62bf722554e5.mp3];air conditioning, air conditioners, air conditioner;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;エアコン;air conditioning, air conditioners, air conditioner;acd47dc37688dd5a544c62bf722554e5.mp3
+ベッド<br>[sound:c3cd9b7d27654171c6e745f744a0265a.mp3];bed, beds;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;ベッド;bed, beds;c3cd9b7d27654171c6e745f744a0265a.mp3
+せまい<br>[sound:233a45795a8736ea1fe77f4b8e513527.mp3];cramped;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;せまい;cramped;233a45795a8736ea1fe77f4b8e513527.mp3
+リビング<br>[sound:100b427bbd8d6d3c81093becf78a9966.mp3];living room;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;リビング;living room;100b427bbd8d6d3c81093becf78a9966.mp3
+キッチン<br>[sound:754e0b60d63059c1b5f30b22b3bc9e14.mp3];kitchen;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;キッチン;kitchen;754e0b60d63059c1b5f30b22b3bc9e14.mp3
+があります<br>[sound:707283f8dcdbfeb58bd3169e2ac6f8b4.mp3];is, there is, there are;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;があります;is, there is, there are;707283f8dcdbfeb58bd3169e2ac6f8b4.mp3
+アパート<br>[sound:7c433db6edd728dc8cd12fca143cc211.mp3];apartment building, apartment, apartments;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;アパート;apartment building, apartment, apartments;7c433db6edd728dc8cd12fca143cc211.mp3
+ひっこします<br>[sound:1ba3bfa20222233abcf0739b3323a03f.mp3];am going to move, is going to move, move;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;ひっこします;am going to move, is going to move, move;1ba3bfa20222233abcf0739b3323a03f.mp3
+まだ<br>[sound:b913c81bd21b6fe8a7cc707ce2902c63.mp3];still, yet, too;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;まだ;still, yet, too;b913c81bd21b6fe8a7cc707ce2902c63.mp3
+ひろい<br>[sound:9526fae353db320f874cf2c0fcbbd798.mp3];spacious;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;ひろい;spacious;9526fae353db320f874cf2c0fcbbd798.mp3
+いえ<br>[sound:68261b358c27e881dad9a95f552adc87.mp3];house;;Duolingo JAP|ENG::Section 2::Unit 12;Section 2;Unit 12;いえ;house;68261b358c27e881dad9a95f552adc87.mp3
+れんあい<br>[sound:57453c2e08a62f9c6e92790a5e7dbf27.mp3];romance;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;れんあい;romance;57453c2e08a62f9c6e92790a5e7dbf27.mp3
+コメディ<br>[sound:723c76c094365eadc66bd3acb6e03870.mp3];comedy;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;コメディ;comedy;723c76c094365eadc66bd3acb6e03870.mp3
+ほんとうですか<br>[sound:75f19f789608e051bba297f09408c151.mp3];really;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ほんとうですか;really;75f19f789608e051bba297f09408c151.mp3
+アクション<br>[sound:71944175d42650eec2c93a789eed24ea.mp3];action;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;アクション;action;71944175d42650eec2c93a789eed24ea.mp3
+アメリカの<br>[sound:d2528e302720acc9b9b8cd61421b0d73.mp3];... of the US, American, ... of the United States;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;アメリカの;... of the US, American, ... of the United States;d2528e302720acc9b9b8cd61421b0d73.mp3
+どんな<br>[sound:a566a374bba6fabfb130b07864c25faa.mp3];any, what kind of, what (sort of);;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;どんな;any, what kind of, what (sort of);a566a374bba6fabfb130b07864c25faa.mp3
+ファンタジー<br>[sound:82a0a33a6b2b418aa00d5f74673716e1.mp3];fantasy;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ファンタジー;fantasy;82a0a33a6b2b418aa00d5f74673716e1.mp3
+ホラー<br>[sound:a015bc465d772311215b9bc4109cabe3.mp3];horror;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ホラー;horror;a015bc465d772311215b9bc4109cabe3.mp3
+がすきですか<br>[sound:6c459aa7aa3c8e1b7165c6076aaf536d.mp3];do you like;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;がすきですか;do you like;6c459aa7aa3c8e1b7165c6076aaf536d.mp3
+しゅみはありますか<br>[sound:3aaaa597e20878eb7a933235edeaad69.mp3];do you have a hobby;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;しゅみはありますか;do you have a hobby;3aaaa597e20878eb7a933235edeaad69.mp3
+ミステリー<br>[sound:c3b8b8aa7564477bf6210a86b9b5d10e.mp3];mystery;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ミステリー;mystery;c3b8b8aa7564477bf6210a86b9b5d10e.mp3
+Kポップ<br>[sound:599f6e3dea4285f047e78abf35a5414f.mp3];K-pop;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;Kポップ;K-pop;599f6e3dea4285f047e78abf35a5414f.mp3
+日本の<br>[sound:b8142c05b85bf3d1bfdfa063657cdaf0.mp3];Japan's, of Japan, Japanese;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;日本の;Japan's, of Japan, Japanese;b8142c05b85bf3d1bfdfa063657cdaf0.mp3
+がすきです<br>[sound:ad18196d0eb843bf33eb210398ed442e.mp3];like;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;がすきです;like;ad18196d0eb843bf33eb210398ed442e.mp3
+ベトナム<br>[sound:54b463142194122c35b3f184b3387998.mp3];Vietnam;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ベトナム;Vietnam;54b463142194122c35b3f184b3387998.mp3
+かんこく<br>[sound:55f2e328e53484da828a8ab70beeb51b.mp3];Korea, korean;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;かんこく;Korea, korean;55f2e328e53484da828a8ab70beeb51b.mp3
+かのじょ<br>[sound:27d183402bce911a63637c51f18f5a5f.mp3];she, girlfriend, her;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;かのじょ;she, girlfriend, her;27d183402bce911a63637c51f18f5a5f.mp3
+ちゅうごく<br>[sound:5d8319b5dd0abe1d3d7e5390573fea0a.mp3];China;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ちゅうごく;China;5d8319b5dd0abe1d3d7e5390573fea0a.mp3
+さんは<br>[sound:37ef9f29b9a32bad8febcc89c386dc68.mp3];Mr./Ms.;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;さんは;Mr./Ms.;37ef9f29b9a32bad8febcc89c386dc68.mp3
+かれし<br>[sound:f3ddbe3d296a8b4947cd1a1dcd7b4d2a.mp3];boyfriend;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;かれし;boyfriend;f3ddbe3d296a8b4947cd1a1dcd7b4d2a.mp3
+アンドリュー<br>[sound:b9a3018761adc2cd7b7326e7f5c615f9.mp3];Andrew;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;アンドリュー;Andrew;b9a3018761adc2cd7b7326e7f5c615f9.mp3
+と言います<br>[sound:39cb36f752e4aa90b42cd1258a834b2e.mp3];tell, say, says;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;と言います;tell, say, says;39cb36f752e4aa90b42cd1258a834b2e.mp3
+エリカ<br>[sound:f5e2ea81182950fdf40b704fb31722c6.mp3];Erica, Erika;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;エリカ;Erica, Erika;f5e2ea81182950fdf40b704fb31722c6.mp3
+言います<br>[sound:33e381f1dc84b2e6278c2f4dcec5821a.mp3];tell, tells, say;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;言います;tell, tells, say;33e381f1dc84b2e6278c2f4dcec5821a.mp3
+こちら<br>[sound:9607559a43c03719406e8f0c496cb8c9.mp3];this, these, (over) here;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;こちら;this, these, (over) here;9607559a43c03719406e8f0c496cb8c9.mp3
+ダニエル<br>[sound:09a09ee520c18487dfd21d0dcac035d9.mp3];Daniel;;Duolingo JAP|ENG::Section 2::Unit 11;Section 2;Unit 11;ダニエル;Daniel;09a09ee520c18487dfd21d0dcac035d9.mp3
+はしります<br>[sound:fcac67a19ec8caa1358e3cf5dd6576e5.mp3];runs, run;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;はしります;runs, run;fcac67a19ec8caa1358e3cf5dd6576e5.mp3
+飲みます<br>[sound:dadddfeceb29df03c2839b50c0bde83c.mp3];will have, drink, having;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;飲みます;will have, drink, having;dadddfeceb29df03c2839b50c0bde83c.mp3
+パスタ<br>[sound:9d99c32f2d17c06dd26b86993b6d6e23.mp3];pasta;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;パスタ;pasta;9d99c32f2d17c06dd26b86993b6d6e23.mp3
+ねます<br>[sound:b806cc1051c3a5c6772e8f02832fd79d.mp3];sleep, go to sleep, will go to sleep;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;ねます;sleep, go to sleep, will go to sleep;b806cc1051c3a5c6772e8f02832fd79d.mp3
+シャワーをあびます<br>[sound:3d25320230c8c15adc28f17b4468a519.mp3];take a shower;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;シャワーをあびます;take a shower;3d25320230c8c15adc28f17b4468a519.mp3
+メールを読みます<br>[sound:27c05e3551eb3d53b5ce8651ba87224e.mp3];check emails;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;メールを読みます;check emails;27c05e3551eb3d53b5ce8651ba87224e.mp3
+あした<br>[sound:0ee445ebf2add72bf74be3f58b75d45b.mp3];tomorrow;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;あした;tomorrow;0ee445ebf2add72bf74be3f58b75d45b.mp3
+らいしゅう<br>[sound:c758fe7f3cec337effb4a01296b0d20d.mp3];next week;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;らいしゅう;next week;c758fe7f3cec337effb4a01296b0d20d.mp3
+バレーボール<br>[sound:2307437eb3616b4c11db0d7795d0d1ed.mp3];volleyball;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;バレーボール;volleyball;2307437eb3616b4c11db0d7795d0d1ed.mp3
+まいしゅう<br>[sound:1d2d6d2f5ee7494238679e451a485ed5.mp3];every week;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;まいしゅう;every week;1d2d6d2f5ee7494238679e451a485ed5.mp3
+四時<br>[sound:b80733dcb8a122a5c7fc785aa5cb8678.mp3];four o'clock;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;四時;four o'clock;b80733dcb8a122a5c7fc785aa5cb8678.mp3
+つくります<br>[sound:0a303eb6b01816d6d130f9e27a904ffb.mp3];make;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;つくります;make;0a303eb6b01816d6d130f9e27a904ffb.mp3
+食べます<br>[sound:cbea822aa60603be7f4d915b26c42eb4.mp3];eat, am going to eat, will eat;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;食べます;eat, am going to eat, will eat;cbea822aa60603be7f4d915b26c42eb4.mp3
+何時に<br>[sound:68ce8e597a24656268c5ce340184cd56.mp3];(at) what time;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;何時に;(at) what time;68ce8e597a24656268c5ce340184cd56.mp3
+おきます<br>[sound:09a63678430384b09be549418d1ada5d.mp3];get up, going to wake up, wake up;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;おきます;get up, going to wake up, wake up;09a63678430384b09be549418d1ada5d.mp3
+新聞<br>[sound:961f9b75f23eb4e439a08b4f8c9b4ec4.mp3];newspaper;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;新聞;newspaper;961f9b75f23eb4e439a08b4f8c9b4ec4.mp3
+ラジオ<br>[sound:85fbe275b214d3211a97c8d904e8e302.mp3];radio;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;ラジオ;radio;85fbe275b214d3211a97c8d904e8e302.mp3
+何時<br>[sound:bacaa6ffd3b81b133fc600b5e4e62e9f.mp3];when, what time;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;何時;when, what time;bacaa6ffd3b81b133fc600b5e4e62e9f.mp3
+いつも<br>[sound:2eb40f4c6939c3bc7f059e4df07874a3.mp3];always, all the time, never;;Duolingo JAP|ENG::Section 2::Unit 10;Section 2;Unit 10;いつも;always, all the time, never;2eb40f4c6939c3bc7f059e4df07874a3.mp3
+でぐち<br>[sound:8a37e1c6668b2a4f472a7580d7059a77.mp3];exit;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;でぐち;exit;8a37e1c6668b2a4f472a7580d7059a77.mp3
+じはんき<br>[sound:01eb5e3e5a864a6937e61b8827a49c5f.mp3];vending machines, vending machine;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;じはんき;vending machines, vending machine;01eb5e3e5a864a6937e61b8827a49c5f.mp3
+コインロッカー<br>[sound:f1732a16caef333de689e5e99f95a39a.mp3];storage lockers;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;コインロッカー;storage lockers;f1732a16caef333de689e5e99f95a39a.mp3
+ちかい<br>[sound:46b43143ec10ca84ff8bb4225ad8dc83.mp3];close;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;ちかい;close;46b43143ec10ca84ff8bb4225ad8dc83.mp3
+カフェ<br>[sound:074c77bff03b18bd644a4a272532ce54.mp3];cafe;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;カフェ;cafe;074c77bff03b18bd644a4a272532ce54.mp3
+にかい<br>[sound:457b389026a93435c58e4bd52925156f.mp3];the second floor, two;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;にかい;the second floor, two;457b389026a93435c58e4bd52925156f.mp3
+かいだん<br>[sound:b05721a8ae20d4b549e2ad01142f7220.mp3];stairs;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;かいだん;stairs;b05721a8ae20d4b549e2ad01142f7220.mp3
+コンセント<br>[sound:dbac0630035031f7fe0e1a51090ac0d7.mp3];outlet;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;コンセント;outlet;dbac0630035031f7fe0e1a51090ac0d7.mp3
+とおい<br>[sound:386013cd77eacc94bac61a1aafea3e73.mp3];far;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;とおい;far;386013cd77eacc94bac61a1aafea3e73.mp3
+でんわ<br>[sound:4f4ebe01c8c20d94ab49b64ea9a25728.mp3];phone;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;でんわ;phone;4f4ebe01c8c20d94ab49b64ea9a25728.mp3
+ちか<br>[sound:4b6e274fb43b51a612e48995f128861a.mp3];underground level;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;ちか;underground level;4b6e274fb43b51a612e48995f128861a.mp3
+タクシー<br>[sound:872810662a36e20b68a62ba7151964e0.mp3];taxi;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;タクシー;taxi;872810662a36e20b68a62ba7151964e0.mp3
+エレベーター<br>[sound:6f9399a757cccccd56529a8a896295db.mp3];elevator;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;エレベーター;elevator;6f9399a757cccccd56529a8a896295db.mp3
+おてあらい<br>[sound:ddfaf22d0b4a7cbd95891f2309d59230.mp3];restroom;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;おてあらい;restroom;ddfaf22d0b4a7cbd95891f2309d59230.mp3
+wifi<br>[sound:da15cec28402771eba4d9ae82993629d.mp3];wifi;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;wifi;wifi;da15cec28402771eba4d9ae82993629d.mp3
+ありません<br>[sound:2cc5a20d74419d56804d72174db747a0.mp3];there are no, (it) is not, has nothing;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;ありません;there are no, (it) is not, has nothing;2cc5a20d74419d56804d72174db747a0.mp3
+ゴミばこ<br>[sound:c2c776cbe548cea0c3366bf13c62f832.mp3];trash can;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;ゴミばこ;trash can;c2c776cbe548cea0c3366bf13c62f832.mp3
+のりかえ<br>[sound:93c65cf7d77a925565a5059e0ff6949b.mp3];transfer;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;のりかえ;transfer;93c65cf7d77a925565a5059e0ff6949b.mp3
+あそこ<br>[sound:8157715f74586c70f968ca21ffe4d4fb.mp3];over there;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;あそこ;over there;8157715f74586c70f968ca21ffe4d4fb.mp3
+かいさつ<br>[sound:7f54ded56659e7e31f9503e0398e61a3.mp3];ticket gate;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;かいさつ;ticket gate;7f54ded56659e7e31f9503e0398e61a3.mp3
+ありますか<br>[sound:15924122a9d6a0eb97bfd6fb0a1bb60a.mp3];is (there), is (it), are (there);;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;ありますか;is (there), is (it), are (there);15924122a9d6a0eb97bfd6fb0a1bb60a.mp3
+いっかい<br>[sound:1da2fb9b153d05ac65454b831590ac4e.mp3];first floor;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;いっかい;first floor;1da2fb9b153d05ac65454b831590ac4e.mp3
+ホーム<br>[sound:a2dcbccdb16c98a1a448a04c249f946c.mp3];platform;;Duolingo JAP|ENG::Section 2::Unit 9;Section 2;Unit 9;ホーム;platform;a2dcbccdb16c98a1a448a04c249f946c.mp3
+どうが<br>[sound:8d1a4c72fd4a3fd4326b767e7d2d2dde.mp3];video;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;どうが;video;8d1a4c72fd4a3fd4326b767e7d2d2dde.mp3
+じゅうどう<br>[sound:305cd9c60d1dd31ba8e0729ffe9b7c20.mp3];judo;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;じゅうどう;judo;305cd9c60d1dd31ba8e0729ffe9b7c20.mp3
+テニス<br>[sound:f353f8b18323a51bcd7ee6070c10be77.mp3];tennis;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;テニス;tennis;f353f8b18323a51bcd7ee6070c10be77.mp3
+話します<br>[sound:1684c5f6921c46fdd7034bf6507b7df7.mp3];speaks, speak, tells;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;話します;speaks, speak, tells;1684c5f6921c46fdd7034bf6507b7df7.mp3
+日曜日<br>[sound:677ce6815c5e39c49c17aee3255678c7.mp3];Sunday;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;日曜日;Sunday;677ce6815c5e39c49c17aee3255678c7.mp3
+ゲーム<br>[sound:41375c4f8a589ffa5122624f58ad23de.mp3];video games;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;ゲーム;video games;41375c4f8a589ffa5122624f58ad23de.mp3
+からて<br>[sound:86c3e077f1137d7399e847264429e3be.mp3];karate;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;からて;karate;86c3e077f1137d7399e847264429e3be.mp3
+でかけます<br>[sound:2691fa567c23f27c39b83cec64bc60ec.mp3];go out, am going to go out;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;でかけます;go out, am going to go out;2691fa567c23f27c39b83cec64bc60ec.mp3
+土曜日<br>[sound:879c96a7a1b114c748bf13a52c15ec27.mp3];Saturday, Saturdays;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;土曜日;Saturday, Saturdays;879c96a7a1b114c748bf13a52c15ec27.mp3
+買います<br>[sound:511a0128995b8ea65f05facd79beb073.mp3];will buy;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;買います;will buy;511a0128995b8ea65f05facd79beb073.mp3
+スポーツ<br>[sound:cc71f53ec0c2c338783e0a5360099fef.mp3];sports;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;スポーツ;sports;cc71f53ec0c2c338783e0a5360099fef.mp3
+ヨガ<br>[sound:dfa6923c3271e41028a7cb6dd5510f16.mp3];yoga;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;ヨガ;yoga;dfa6923c3271e41028a7cb6dd5510f16.mp3
+ともだち<br>[sound:50e4815bbf8a79de8b6c208143dc82a8.mp3];friend, friends;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;ともだち;friend, friends;50e4815bbf8a79de8b6c208143dc82a8.mp3
+ドラマ<br>[sound:eeb3337d152cf2a5e84cd095e7126846.mp3];drama;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;ドラマ;drama;eeb3337d152cf2a5e84cd095e7126846.mp3
+あそびます<br>[sound:4801ac093440fc651ee6cc228b6c8f7f.mp3];hang out, hangs out, (I) will play;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;あそびます;hang out, hangs out, (I) will play;4801ac093440fc651ee6cc228b6c8f7f.mp3
+およぎます<br>[sound:63b7862267f2ae1553449759c4d500f9.mp3];swim, will swim, swims;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;およぎます;swim, will swim, swims;63b7862267f2ae1553449759c4d500f9.mp3
+しゅうまつ<br>[sound:cb473f467038890f2ecfe08ab51f3e90.mp3];weekend;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;しゅうまつ;weekend;cb473f467038890f2ecfe08ab51f3e90.mp3
+ひとりで<br>[sound:54bcb6a3cc197242375261fbf220599b.mp3];by myself, by herself, alone;;Duolingo JAP|ENG::Section 2::Unit 8;Section 2;Unit 8;ひとりで;by myself, by herself, alone;54bcb6a3cc197242375261fbf220599b.mp3
+アイスコーヒー<br>[sound:5045e006970b7b78c1725c4136639beb.mp3];iced coffee;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;アイスコーヒー;iced coffee;5045e006970b7b78c1725c4136639beb.mp3
+アイスクリーム<br>[sound:da95d91bf0a7c496345416f32332a220.mp3];ice cream, ice creams;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;アイスクリーム;ice cream, ice creams;da95d91bf0a7c496345416f32332a220.mp3
+こうちゃ<br>[sound:c98caf212a7cac3f60d305055e8b08a0.mp3];black teas, black tea, tea;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;こうちゃ;black teas, black tea, tea;c98caf212a7cac3f60d305055e8b08a0.mp3
+小さい<br>[sound:30a6ca85db90b93a38aecd83a7ba3c7f.mp3];small, little;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;小さい;small, little;30a6ca85db90b93a38aecd83a7ba3c7f.mp3
+すこし<br>[sound:c2b5468b0d75406c9e7436c2d11b40fe.mp3];a bit;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;すこし;a bit;c2b5468b0d75406c9e7436c2d11b40fe.mp3
+みそしる<br>[sound:93ec686e2c43d31e37e9bb05e1cad334.mp3];miso soup;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;みそしる;miso soup;93ec686e2c43d31e37e9bb05e1cad334.mp3
+サラダ<br>[sound:4be354283777f31740be24b519e5134b.mp3];salad, salads;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;サラダ;salad, salads;4be354283777f31740be24b519e5134b.mp3
+そば<br>[sound:6f79364872c660b5875f789873fbcfeb.mp3];soba;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;そば;soba;6f79364872c660b5875f789873fbcfeb.mp3
+大きい<br>[sound:2fecd1ba7e6656f8b3bfbfaa22cae650.mp3];big;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;大きい;big;2fecd1ba7e6656f8b3bfbfaa22cae650.mp3
+おにぎり<br>[sound:35fd1d3972c0b3d763232ba5dffcec59.mp3];rice balls, rice ball, onigiri;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;おにぎり;rice balls, rice ball, onigiri;35fd1d3972c0b3d763232ba5dffcec59.mp3
+よっつ<br>[sound:fe9713f1b23f623e3f0abf30e4d47388.mp3];four;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;よっつ;four;fe9713f1b23f623e3f0abf30e4d47388.mp3
+ええと<br>[sound:3d8132fef1dde7daab22568f126b6ab3.mp3];um;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;ええと;um;3d8132fef1dde7daab22568f126b6ab3.mp3
+みっつ<br>[sound:37b6f66cb3df734ab5c928919565f7d8.mp3];three;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;みっつ;three;37b6f66cb3df734ab5c928919565f7d8.mp3
+じゃあ<br>[sound:94c38242caa760797e8dbad597ecb657.mp3];well then, well, see you;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;じゃあ;well then, well, see you;94c38242caa760797e8dbad597ecb657.mp3
+ふたつ<br>[sound:c8dce501b6c86fcef29474123b1cc1ad.mp3];two;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;ふたつ;two;c8dce501b6c86fcef29474123b1cc1ad.mp3
+あ<br>[sound:814397a1fba9533bb9e08f2e065844b1.mp3];ah, oh;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;あ;ah, oh;814397a1fba9533bb9e08f2e065844b1.mp3
+ひとつ<br>[sound:43c4c1d49ca1e79cb70af195d73bb9fa.mp3];one;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;ひとつ;one;43c4c1d49ca1e79cb70af195d73bb9fa.mp3
+水<br>[sound:393807b9c5b2b3b866dcc1fa9d82e5df.mp3];water, waters;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;水;water, waters;393807b9c5b2b3b866dcc1fa9d82e5df.mp3
+レストラン<br>[sound:1154dfbc38d673b9b1f0c9eb1d1f04e4.mp3];restaurant;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;レストラン;restaurant;1154dfbc38d673b9b1f0c9eb1d1f04e4.mp3
+ていしょく<br>[sound:1a014b9eb433ffed64b64627a844fa07.mp3];meal set, meal sets;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;ていしょく;meal set, meal sets;1a014b9eb433ffed64b64627a844fa07.mp3
+うどん<br>[sound:1bc9aaf54c260b9ff36158235892edfe.mp3];udon;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;うどん;udon;1bc9aaf54c260b9ff36158235892edfe.mp3
+てんぷら<br>[sound:14bbf7b937ec2c11c6c57b150615d8a2.mp3];tempura;;Duolingo JAP|ENG::Section 2::Unit 7;Section 2;Unit 7;てんぷら;tempura;14bbf7b937ec2c11c6c57b150615d8a2.mp3
+ジャケット<br>[sound:b305aa17236ce6915b21b936cdb95b51.mp3];jacket;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ジャケット;jacket;b305aa17236ce6915b21b936cdb95b51.mp3
+たかい<br>[sound:eb4a29ac210bc7c88bac588c8df7f2ab.mp3];expensive, big, tall;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;たかい;expensive, big, tall;eb4a29ac210bc7c88bac588c8df7f2ab.mp3
+くろい<br>[sound:2edeabb77f02ab38b37fe5b524e9b5b8.mp3];black;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;くろい;black;2edeabb77f02ab38b37fe5b524e9b5b8.mp3
+みせ<br>[sound:12efd0581b9ddb7ac6be09893157c423.mp3];store;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;みせ;store;12efd0581b9ddb7ac6be09893157c423.mp3
+ありがとうございます<br>[sound:c692aacb2951b190c2f1e506fb6905cc.mp3];thank you;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ありがとうございます;thank you;c692aacb2951b190c2f1e506fb6905cc.mp3
+千<br>[sound:658fe8f1722fc2cea24f273bc1bc021a.mp3];thousand;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;千;thousand;658fe8f1722fc2cea24f273bc1bc021a.mp3
+いくら<br>[sound:9a5a3312f494a5c0f65b497136eb5b9c.mp3];how much;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;いくら;how much;9a5a3312f494a5c0f65b497136eb5b9c.mp3
+ネクタイ<br>[sound:b52b835e2da8adc9cda55235fe282ba7.mp3];tie, necktie, ties;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ネクタイ;tie, necktie, ties;b52b835e2da8adc9cda55235fe282ba7.mp3
+えん<br>[sound:979ebf44e07f85c9f124cdcbf98f9d20.mp3];yen;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;えん;yen;979ebf44e07f85c9f124cdcbf98f9d20.mp3
+やすい<br>[sound:038f27a2566b6222c36c892b744e056b.mp3];cheap, inexpensive;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;やすい;cheap, inexpensive;038f27a2566b6222c36c892b744e056b.mp3
+百<br>[sound:5614f349e37b9f4097d36e930e12acd1.mp3];hundred;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;百;hundred;5614f349e37b9f4097d36e930e12acd1.mp3
+あの<br>[sound:7fe2dbe023cfd4a0a99d94123e8b9a82.mp3];those, ah, that (over there);;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;あの;those, ah, that (over there);7fe2dbe023cfd4a0a99d94123e8b9a82.mp3
+あおい<br>[sound:89d74ecb154ae187921058920214a57e.mp3];blue;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;あおい;blue;89d74ecb154ae187921058920214a57e.mp3
+いい<br>[sound:9d8a8217889d8ee67f2d808d6a316ee6.mp3];good, like, well;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;いい;good, like, well;9d8a8217889d8ee67f2d808d6a316ee6.mp3
+ドレス<br>[sound:69fcf8695ff0285bff2f3dfef9ef53bb.mp3];dress;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ドレス;dress;69fcf8695ff0285bff2f3dfef9ef53bb.mp3
+すてき<br>[sound:fd4d605c746c61deef79c975fa952383.mp3];lovely, nice, cute;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;すてき;lovely, nice, cute;fd4d605c746c61deef79c975fa952383.mp3
+がほしいです<br>[sound:ea041a228822590d7845cb838222bac4.mp3];want;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;がほしいです;want;ea041a228822590d7845cb838222bac4.mp3
+スカート<br>[sound:fbcb5c982b6575844c7ba672b8317219.mp3];skirt;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;スカート;skirt;fbcb5c982b6575844c7ba672b8317219.mp3
+Tシャツ<br>[sound:9a95ae6a45585a228cc051fc12090217.mp3];t-shirt;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;Tシャツ;t-shirt;9a95ae6a45585a228cc051fc12090217.mp3
+新しい<br>[sound:1ac88dfdbb182632fa45eb239b2870a2.mp3];new, newer;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;新しい;new, newer;1ac88dfdbb182632fa45eb239b2870a2.mp3
+ね<br>[sound:c90b73c62340a1482d4125b95d8d834c.mp3];isn't it?;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ね;isn't it?;c90b73c62340a1482d4125b95d8d834c.mp3
+ふく<br>[sound:6ab2b86fb5879633d9b62c59df15741f.mp3];clothes;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ふく;clothes;6ab2b86fb5879633d9b62c59df15741f.mp3
+ダサい<br>[sound:cf6f231cd631b7b407560292f7c632e6.mp3];hideous;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;ダサい;hideous;cf6f231cd631b7b407560292f7c632e6.mp3
+はちょっと<br>[sound:036c3ce9fff4e337624943de2f30e078.mp3];I don't really like, doesn't work very well, kind of;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;はちょっと;I don't really like, doesn't work very well, kind of;036c3ce9fff4e337624943de2f30e078.mp3
+さいふ<br>[sound:591e15724e40bd87dce46e1ac144b9f7.mp3];wallet;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;さいふ;wallet;591e15724e40bd87dce46e1ac144b9f7.mp3
+古い<br>[sound:4879b62a8d1ab26552321237b8721fa1.mp3];old;;Duolingo JAP|ENG::Section 2::Unit 6;Section 2;Unit 6;古い;old;4879b62a8d1ab26552321237b8721fa1.mp3
+ばんごはん<br>[sound:d762e2cb3cdea5eb6132d0ea3f6a698a.mp3];dinner;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;ばんごはん;dinner;d762e2cb3cdea5eb6132d0ea3f6a698a.mp3
+まいばん<br>[sound:fb8a5ca6718051f60e088f17cb532375.mp3];every night;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;まいばん;every night;fb8a5ca6718051f60e088f17cb532375.mp3
+九時<br>[sound:757f6c1ab403f7827bee5c65182e8f59.mp3];nine o'clock;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;九時;nine o'clock;757f6c1ab403f7827bee5c65182e8f59.mp3
+半<br>[sound:d10d432788e726f7e81bbe7015c1dfa9.mp3];thirty;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;半;thirty;d10d432788e726f7e81bbe7015c1dfa9.mp3
+八<br>[sound:9a8aa616555bc9ddfc41090761cbe2c1.mp3];eight;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;八;eight;9a8aa616555bc9ddfc41090761cbe2c1.mp3
+べんとう<br>[sound:1623c729a0c64887ee41d6ff8ab8e5e9.mp3];boxed lunch;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;べんとう;boxed lunch;1623c729a0c64887ee41d6ff8ab8e5e9.mp3
+ひるごはん<br>[sound:f537d2baac38af7963ea7c846d907b6c.mp3];lunch;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;ひるごはん;lunch;f537d2baac38af7963ea7c846d907b6c.mp3
+十二<br>[sound:35c08f5968329b37535546b8b533fd09.mp3];twelve;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;十二;twelve;35c08f5968329b37535546b8b533fd09.mp3
+十<br>[sound:9bf54f4f97699e03b8cd0062cc9696c1.mp3];ten;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;十;ten;9bf54f4f97699e03b8cd0062cc9696c1.mp3
+十一<br>[sound:7cfc083d77166ab8e4065f59e408a048.mp3];eleven;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;十一;eleven;7cfc083d77166ab8e4065f59e408a048.mp3
+あさごはん<br>[sound:4d09be8698d0fd75b7fd59cb8ea2221c.mp3];breakfast;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;あさごはん;breakfast;4d09be8698d0fd75b7fd59cb8ea2221c.mp3
+七時<br>[sound:08a6848d3ba21967e385d5b0d711edce.mp3];seven o'clock;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;七時;seven o'clock;08a6848d3ba21967e385d5b0d711edce.mp3
+時<br>[sound:f29f05b1e9b381a48c74482fbe0543fa.mp3];o'clock;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;時;o'clock;f29f05b1e9b381a48c74482fbe0543fa.mp3
+コーヒー<br>[sound:6d4b5d2b7e69163b9662c95ebc439ee6.mp3];coffee;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;コーヒー;coffee;6d4b5d2b7e69163b9662c95ebc439ee6.mp3
+まいあさ<br>[sound:f9b0716bffc79beb452e7ad4342285b3.mp3];every morning;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;まいあさ;every morning;f9b0716bffc79beb452e7ad4342285b3.mp3
+のみます<br>[sound:a9560d438d2595406c7d8dbe69eaac46.mp3];drink, drinks, (will) drink;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;のみます;drink, drinks, (will) drink;a9560d438d2595406c7d8dbe69eaac46.mp3
+ジュース<br>[sound:0eeaf0fdfcd5d4a42cda8b4f894e2c07.mp3];juice;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;ジュース;juice;0eeaf0fdfcd5d4a42cda8b4f894e2c07.mp3
+まいにち<br>[sound:8f02b4b1f79370e677ca3b1cb28b45e0.mp3];every day;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;まいにち;every day;8f02b4b1f79370e677ca3b1cb28b45e0.mp3
+パン<br>[sound:0ae5ba4b0a7e81f2f8bc8873fb5efa48.mp3];bread;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;パン;bread;0ae5ba4b0a7e81f2f8bc8873fb5efa48.mp3
+サンドイッチ<br>[sound:b5e0e96523c399383aaf72e434e32d09.mp3];sandwich;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;サンドイッチ;sandwich;b5e0e96523c399383aaf72e434e32d09.mp3
+たべます<br>[sound:8c6f88aca906bbbd2c9b19047e79b1e6.mp3];eat, eats;;Duolingo JAP|ENG::Section 2::Unit 5;Section 2;Unit 5;たべます;eat, eats;8c6f88aca906bbbd2c9b19047e79b1e6.mp3
+Jポップ<br>[sound:52f35d889ddfac8e00bd9ac553006bed.mp3];J-pop;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;Jポップ;J-pop;52f35d889ddfac8e00bd9ac553006bed.mp3
+まんが<br>[sound:2c826b20154dbfd1b2b2f3153e8a30c4.mp3];manga;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;まんが;manga;2c826b20154dbfd1b2b2f3153e8a30c4.mp3
+アニメ<br>[sound:9e4d71d4ecdf32083683e52fc10ce9a9.mp3];anime;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;アニメ;anime;9e4d71d4ecdf32083683e52fc10ce9a9.mp3
+やきゅう<br>[sound:6edde985586930c300485a438a5963ef.mp3];baseball;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;やきゅう;baseball;6edde985586930c300485a438a5963ef.mp3
+ざっし<br>[sound:b50ed8260616b450ff3bc909df03b63c.mp3];magazines;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;ざっし;magazines;b50ed8260616b450ff3bc909df03b63c.mp3
+本<br>[sound:884a0d08d1808509a162890a47fb5477.mp3];books;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;本;books;884a0d08d1808509a162890a47fb5477.mp3
+読みます<br>[sound:8d663da85c5d1f3a6ab33fc216f87116.mp3];read, will read, reads;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;読みます;read, will read, reads;8d663da85c5d1f3a6ab33fc216f87116.mp3
+ニュース<br>[sound:455e428889de82fa0f7b15952bb5dc12.mp3];news;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;ニュース;news;455e428889de82fa0f7b15952bb5dc12.mp3
+おんがく<br>[sound:013341acc4e0f493df150ac2b6ca3005.mp3];music;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;おんがく;music;013341acc4e0f493df150ac2b6ca3005.mp3
+ロック<br>[sound:d4b137f666f28d8e03b2652bd4667ea4.mp3];rock;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;ロック;rock;d4b137f666f28d8e03b2652bd4667ea4.mp3
+ききます<br>[sound:61a09cb2718d96bb2b7b67b395043944.mp3];listen, listens, ask;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;ききます;listen, listens, ask;61a09cb2718d96bb2b7b67b395043944.mp3
+ジャズ<br>[sound:b5459e42a75bf35353e9b848d9f23dc6.mp3];jazz;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;ジャズ;jazz;b5459e42a75bf35353e9b848d9f23dc6.mp3
+サッカー<br>[sound:c878da262b4d6a4f571255bbdaf2cd1d.mp3];soccer;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;サッカー;soccer;c878da262b4d6a4f571255bbdaf2cd1d.mp3
+ときどき<br>[sound:c87f557c0da647bc430eadf4d710291f.mp3];sometimes;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;ときどき;sometimes;c87f557c0da647bc430eadf4d710291f.mp3
+します<br>[sound:cbb39ea3761b81ffc3f82c148ea0dbcb.mp3];makes, are doing, make;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;します;makes, are doing, make;cbb39ea3761b81ffc3f82c148ea0dbcb.mp3
+バスケットボール<br>[sound:6751311e7da748a375eef50dc919f428.mp3];basketball;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;バスケットボール;basketball;6751311e7da748a375eef50dc919f428.mp3
+を<br>[sound:06847275ffea30a3a4206e34e3930b60.mp3];through, with, for;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;を;through, with, for;06847275ffea30a3a4206e34e3930b60.mp3
+よく<br>[sound:043aaf1d94b745f66448f6afd06c3d3b.mp3];often;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;よく;often;043aaf1d94b745f66448f6afd06c3d3b.mp3
+えいが<br>[sound:b474793fbcc55d4301abb9e31574e799.mp3];movies;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;えいが;movies;b474793fbcc55d4301abb9e31574e799.mp3
+テレビ<br>[sound:bda20782572979fe9806bb9ab317c974.mp3];TV;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;テレビ;TV;bda20782572979fe9806bb9ab317c974.mp3
+見ます<br>[sound:7a9f603f79ef46656f26c4d27779aec9.mp3];watch, will watch, watches;;Duolingo JAP|ENG::Section 2::Unit 4;Section 2;Unit 4;見ます;watch, will watch, watches;7a9f603f79ef46656f26c4d27779aec9.mp3
 おっと<br>[sound:48346f1537c9cdc3db5beadc0c9057cd.mp3];my husband;;Duolingo JAP|ENG::Section 2::Unit 3;Section 2;Unit 3;おっと;my husband;48346f1537c9cdc3db5beadc0c9057cd.mp3
 七<br>[sound:7ab8b7fcecc5744fb2868e5c54f7efd1.mp3];7, seven, seventh;;Duolingo JAP|ENG::Section 2::Unit 3;Section 2;Unit 3;七;7, seven, seventh;7ab8b7fcecc5744fb2868e5c54f7efd1.mp3
 あたまがいい<br>[sound:ce2e1def60d13fba8d0c03ad710a5eb4.mp3];smart;;Duolingo JAP|ENG::Section 2::Unit 3;Section 2;Unit 3;あたまがいい;smart;ce2e1def60d13fba8d0c03ad710a5eb4.mp3
