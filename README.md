@@ -1,6 +1,6 @@
 <div align="center">
 
-# Duolingo Course Word Extractor & Audio Generator
+# Duolingo Word & Audio Extractor
 
 [![Chrome 141+](https://img.shields.io/badge/Chrome-141+-blue?logo=google-chrome)](https://www.google.com/chrome/)
 [![Anki 25.09+](https://img.shields.io/badge/Anki_Desktop-25.09+-blue?logo=ankis)](https://apps.ankiweb.net/#downloads)
@@ -35,7 +35,6 @@ Extracts **all words** from your Duolingo course â†’ generates **audio files** â
 ![Download network.har](screenshots/download.jpg)
 10. Safe `network.har` to this directory next to the `createAudio.py`.
 11. Run the `createAudio.py` script.
-    When running this script a second time, first remove the already existing audio files in `/audio_files`.
 12. Copy the column from the `audio_filenames.csv` and paste it into the `words.csv` in column I (filename).
 13. In columns E and F, adjust the sections and units according to your best of knowledge if you want to have a more structured deck.
 14. In columns A, B and D from row 4, remove the leading apostrophes to activate the formulas and adjust the LANG|LANG in coulmn D according to your languages. Then drag the three cells down to apply the formulas to all rows and save the file.
